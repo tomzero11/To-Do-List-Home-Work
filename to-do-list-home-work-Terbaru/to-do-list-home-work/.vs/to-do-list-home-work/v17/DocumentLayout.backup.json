@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\db_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\db_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|d:\\tomi\\to-do-list-home-work-terbaru\\to-do-list-home-work\\to-do-list-home-work\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\readpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\readpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\HomePage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\RegisterPage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\LoginPage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\ReadPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9806F5-A881-4A97-9A7F-D617332FB613}|to-do-list-home-work\\to-do-list-home-work.csproj|solutionrelative:to-do-list-home-work\\ReadPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\Create.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.cs",
+              "RelativeToolTip": "to-do-list-home-work\\Create.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:21:44.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadPage.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\ReadPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\ReadPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\ReadPage.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\ReadPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:25:55.531Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\HomePage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:06:10.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\HomePage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.cs",
+              "RelativeToolTip": "to-do-list-home-work\\HomePage.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwIwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:06:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\LoginPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:49:23.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db_controller.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\db_controller.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\db_controller.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\db_controller.cs",
+              "RelativeToolTip": "to-do-list-home-work\\db_controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:52:00.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\Create.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\Create.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:25:26.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Update.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\Update.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Update.cs",
+              "RelativeToolTip": "to-do-list-home-work\\Update.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:39:50.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Update.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\Update.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Update.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:32:55.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\RegisterPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.cs",
+              "RelativeToolTip": "to-do-list-home-work\\RegisterPage.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAApwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:53:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterPage.cs [Design]",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\RegisterPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.cs [Design]",
+              "RelativeToolTip": "to-do-list-home-work\\RegisterPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:57:27.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\LoginPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.cs",
+              "RelativeToolTip": "to-do-list-home-work\\LoginPage.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:50:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\App.config",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\App.config",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\App.config",
+              "RelativeToolTip": "to-do-list-home-work\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-10T12:57:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.Designer.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.Designer.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\Create.Designer.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\Create.Designer.cs",
+              "RelativeToolTip": "to-do-list-home-work\\Create.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:18:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\HomePage.Designer.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\HomePage.Designer.cs",
+              "RelativeToolTip": "to-do-list-home-work\\HomePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:26:28.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\LoginPage.Designer.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\LoginPage.Designer.cs",
+              "RelativeToolTip": "to-do-list-home-work\\LoginPage.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:51:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPage.Designer.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.Designer.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\RegisterPage.Designer.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\RegisterPage.Designer.cs*",
+              "RelativeToolTip": "to-do-list-home-work\\RegisterPage.Designer.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:53:43.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadPage.cs",
+              "DocumentMoniker": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\ReadPage.cs",
+              "RelativeDocumentMoniker": "to-do-list-home-work\\ReadPage.cs",
+              "ToolTip": "D:\\tomi\\to-do-list-home-work-Terbaru\\to-do-list-home-work\\to-do-list-home-work\\ReadPage.cs",
+              "RelativeToolTip": "to-do-list-home-work\\ReadPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:27:28.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
